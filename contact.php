@@ -110,15 +110,15 @@ if(isset($_POST['send']))
                                 <li class="d-flex mb-4"> <i class="fas fa-map-marker-alt text-white mr-2 font-13 mt-1"></i>
                                     <div class="contact-address">
                                         <h5 class="text-white">Address</h5>
-                                        <span class="text-white">27 Ingram Street, Dayton</span> <br>
-										<span class="text-white">27 Ingram Street, Dayton</span>
+                                        <span class="text-white">Nairobi-ke</span> <br>
+										<span class="text-white">27, Nairobi</span>
 										</div>
                                 </li>
                                 <li class="d-flex mb-4"> <i class="fas fa-phone-alt text-white mr-2 font-13 mt-1"></i>
                                     <div class="contact-address">
                                         <h5 class="text-white">Call Us</h5>
-                                        <span class="d-table text-white">+1 234-567-8910</span>
-										<span class="text-white">+1 243-765-4321 </span>
+                                        <span class="d-table text-white"></span>
+										<span class="text-white">+254 </span>
 									</div>
                                 </li>
                                 <li class="d-flex mb-4"> <i class="fas fa-envelope text-white mr-2 font-13 mt-1"></i>
